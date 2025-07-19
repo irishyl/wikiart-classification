@@ -1,0 +1,10 @@
+12 Impressionism
+21 Realism
+23 Romanticism
+9 Expressionism
+20 Post_Impressionism
+24 Symbolism
+3 Art_Nouveau
+4 Baroque
+0 Abstract_Expressionism
+17 Northern_Renaissance
